@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devpatel2003
-- 👀 I’m interested in robotics and automation
+- 👀 I’m interested in robotics, automation, artificial intelligence, and space exploration 
 - 🌱 I’m currently a second year Mechatronics and Artificial Intelligence Systems Engineering student at the Univesity of Western Ontario 
 - 📫 devpatel2003@hotmail.com
 
