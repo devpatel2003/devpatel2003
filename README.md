@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devpatel2003
+- 👋 Hi, I’m @devpatel2003, President of WEMARS, a student enginnering team at the University of Western Ontario
+- 🌱 Currently a 4th-year Mechatronics and Artificial Intelligence Systems Engineering student at the University of Western Ontario
 - 👀 I’m interested in robotics, automation, artificial intelligence, and space exploration 
-- 🌱 I’m currently a third-year Mechatronics and Artificial Intelligence Systems Engineering student at the University of Western Ontario 
 - 📫 devsp2003@gmail.com
 - 🌐 https://devpatel-portfolio.com/
 
